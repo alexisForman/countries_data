@@ -1,0 +1,2 @@
+require './lib/countries_data.rb'
+CLI.new.run
